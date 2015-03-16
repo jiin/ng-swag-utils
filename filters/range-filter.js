@@ -11,4 +11,4 @@ angular.module('rangeFilter', [])
         
       return iterations;
     }
-  })
+  });
